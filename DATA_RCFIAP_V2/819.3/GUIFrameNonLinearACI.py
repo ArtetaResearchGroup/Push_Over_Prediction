@@ -2790,7 +2790,7 @@ class Ui_NonLinearFrameDialog(object):
         self.lw1.setPlaceholderText(_translate("NonLinearFrameDialog", "0.4"))
         self.tw2.setText(_translate("NonLinearFrameDialog", "0.0"))
         self.tw2.setPlaceholderText(_translate("NonLinearFrameDialog", "0.4"))
-        self.Af1.setText(_translate("NonLinearFrameDialog", "31,788"))
+        self.Af1.setText(_translate("NonLinearFrameDialog", "31.788"))
         self.Af1.setPlaceholderText(_translate("NonLinearFrameDialog", "0.4"))
         self.label_100.setText(_translate("NonLinearFrameDialog", "<html><head/><body><p>Af (m<span style=\" vertical-align:super;\">2</span>) =</p></body></html>"))
         self.Af2.setText(_translate("NonLinearFrameDialog", "0.0"))
